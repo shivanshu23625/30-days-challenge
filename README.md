@@ -9,4 +9,5 @@ To become confident in coding and GitHub.
 ## Daily Progress
 
 Day 1 - Hello Program
+Day 2 - Simple Calculator in C
 
