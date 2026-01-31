@@ -12,3 +12,5 @@ Day 1 - Hello Program
 
 Day 2 - Simple Calculator in C
 
+Day 3 - Star pattern using loop
+
