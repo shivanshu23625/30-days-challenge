@@ -14,7 +14,7 @@ Day 2 - Simple Calculator in C
 
 Day 3 - Star pattern using loop
 
-Day 4 - Find the largest Number in the array
+Day 4 - Find largest Element in array
 
-Day 5- 
+Day 5 - Ptime Number Checker 
 
