@@ -14,3 +14,7 @@ Day 2 - Simple Calculator in C
 
 Day 3 - Star pattern using loop
 
+Day 4 - Find the largest Number in the array
+
+Day 5- 
+
