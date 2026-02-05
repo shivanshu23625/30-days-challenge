@@ -18,3 +18,5 @@ Day 4 - Find largest Element in array
 
 Day 5 - Ptime Number Checker 
 
+Day 6 - Fibonacci Series in C
+
