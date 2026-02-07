@@ -20,3 +20,5 @@ Day 5 - Ptime Number Checker
 
 Day 6 - Fibonacci Series in C
 
+Day 7 - Palindrome Number in C
+
