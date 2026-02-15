@@ -22,3 +22,5 @@ Day 6 - Fibonacci Series in C
 
 Day 7 - Palindrome Number in C
 
+Day 8 - Reverse a string in C
+
